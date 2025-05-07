@@ -1,1 +1,1 @@
-Basic SMTP server in rust.
+# Basic SMTP server in rust.
